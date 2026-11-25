@@ -1,15 +1,15 @@
 {
-  "version": "0.5.0",
+  "version": "0.5.1",
   "date": "2026-11-25",
-  "notes": "YLLW 0.5.0\n- milk crate is now YLLW, with a new icon and logo in mustard yellow. Your tabs, layouts, settings and projects carry over, and the old shortcuts are replaced with YLLW ones.\n- The built-in Fieldkit sample site uses the same mustard yellow, with lighter yellow tints for its panels and lines.\n- Theme tokens now also lists every other color the page sets directly, like the Most popular badge, hover states, gradients, dark mode and colors inside web components. Change one and it changes everywhere it's used.\n- Token and color edits now stay on every pane when you switch layouts.\n- Phone and iPad frames show each model's real buttons: Action button and volume on the left of the iPhone 17 Pro Max with the side button and Camera Control on the right, the SE's ring switch, the Pixel's power and volume on the right, and the iPads' buttons on the top edge.",
+  "notes": "YLLW 0.5.1\n- The app icon is now the yellow yL square, on the app, the installer, the taskbar and the window's title bar.\n- The logo in the toolbar is now the yellow-framed yllw wordmark.",
   "setup": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.0.exe",
-    "sha512": "L/4IAlNG0JJyePEtDDW7h16bnUEMhZ3bv523FMtg6m+3W34skzYDtfZHfQ6+bp4w6fI7Q3TznKcq1ZpXqKJP2A==",
-    "size": 82207140
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.1.exe",
+    "sha512": "GdwZOBluM+K7ak7gL7ckZShwCokrlSpyyZR2HvbLboonp8MPND74OtFuGzWkasD+NSZxciaj5nF7fQHB0e40sw==",
+    "size": 82183002
   },
   "portable": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.0.exe",
-    "sha512": "5B0qCykw6Hr06pFXI4nAGsDGEXsUG0ZLLi13zFhj4x445SRjOXVgwkhUutUWoW34ZVB/9r7VYly0EvnN2WVNlA==",
-    "size": 75533891
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.1.exe",
+    "sha512": "FslpLlA68wmb/nCklIhmHJvbiGowlJiF3rNFjT8riaQxUdLnCpAvMiClPvtq+u+sRwSVpYElxSofxH2izhPIeQ==",
+    "size": 75525995
   }
 }
