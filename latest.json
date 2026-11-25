@@ -1,15 +1,15 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "date": "2026-11-25",
-  "notes": "milk crate 0.4.1\n- Fixed: at some window sizes the device panes kept flickering between two sizes until you moved a panel. The layout now settles in one pass.\n- The milk crate logo in the top bar is bigger.\n- Settings now has an About section.",
+  "notes": "milk crate 0.4.2\n- Device frames come in each model's real colors. Click the color dot on a pane to pick one: an iPhone 17 Pro Max offers Silver, Cosmic Orange and Deep Blue, an iPad Air its own four, and so on. Laptops come in silver, black or white, monitors in silver or black.\n- Settings sets the default for panes you haven't picked a color for: each model's lightest finish, its darkest, or the old outline look.\n- Frames look more like the real thing: a metal band in the model's color around a black bezel, the iPhone SE with its home button, the Pixel with its punch-hole camera.\n- New iPad presets for the current lineup: iPad 11 (A16), iPad Air 11 and 13 (M4), iPad Pro 11 and 13 (M5).\n- About now says \"Made by Yellow Brick. AI-assisted code.\" with the Yellow Brick logo, linked to the Yellow Brick page.",
   "setup": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-setup-0.4.1.exe",
-    "sha512": "hyR2L8rFRTr4V5wyvyvLq4VwwAu9m72MNiZn2iwN1OXEjjiP63nVmb8z60zkWbkHEiosG3Sbk2HnmdvGzjZsgQ==",
-    "size": 82808160
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-setup-0.4.2.exe",
+    "sha512": "GPOUfLR3EC79wkHM4/BDdQH7GLv+owdmnOvUSDjYoALVYxBxxdI5wBj+lRABbM9xrsKHunxA5FB1lX56U86eMw==",
+    "size": 82804154
   },
   "portable": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-portable-0.4.1.exe",
-    "sha512": "gh3mbGRBbW1BRthnzvAUk8Gkt+qvZSR46I/7t5vwgZgeNKqk4y8CiZCEZ/TgIq29Oghypybe8wXsZcBb/iApkQ==",
-    "size": 75998242
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-portable-0.4.2.exe",
+    "sha512": "pF1TnfyI7IO12AQrfCyDYt1Xu5johrt8O9tTSGVjJDDEqoK8soc4OJCnnkhyC0QrAyHZI5WYNGnvUwEdTR3MHw==",
+    "size": 76014811
   }
 }
