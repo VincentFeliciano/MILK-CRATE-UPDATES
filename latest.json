@@ -1,15 +1,15 @@
 {
-  "version": "0.3.2",
+  "version": "0.4.0",
   "date": "2026-11-25",
-  "notes": "milk crate 0.3.2\n- iPhone Duo frame redrawn: folded shut, the hinge side has square corners and no buttons, volume buttons sit on the top edge toward the right, and the side button and Camera Control are on the right. The open Duo frame has its buttons in the same places.\n- After an update, milk crate tells you which version is now running.",
+  "notes": "milk crate 0.4.0\n- Projects: open a project folder from the new Project panel, pick a script from its package.json (like npm run dev) and press Run. milk crate loads the local address it serves into every pane and shows its output.\n- Save to project: writes your style edits into the project's own CSS, SCSS and component files. You review every change first, files that changed on disk are never overwritten, a copy of each original is kept, and Undo last save puts them back.\n- Shadow DOM: the picker and style editor reach elements inside open shadow roots, show which component an element sits in, and apply edits inside the component in every pane. Saving writes them to the component's stylesheet, whether it's a CSS file, a style tag or an adopted stylesheet defined in its JavaScript.",
   "setup": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-setup-0.3.2.exe",
-    "sha512": "ba4He+p5BXjWNSxtr1T+5LJbNcGjpYeu4vwnu15kvVXDLfxI5vp74njoe75eo9HFLPuqOfqlCTONcg7ZcYsfog==",
-    "size": 82821763
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-setup-0.4.0.exe",
+    "sha512": "679jK+lsbHg54mTWYlFFz9WWfSLAdQDFJVMASUrM0w6SE5u0KLa1PI6TaH/PgUN3Oz3zKtVFhT95Bzp5TexB7Q==",
+    "size": 82817544
   },
   "portable": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-portable-0.3.2.exe",
-    "sha512": "XyQb+ZRVHJ5aEnxI/7/ot0shFIcWSOBELyVKrcBinU4FM5ZnCb2kNrEj+RVKfUIG3dtADkATauu/CvZF5fRyRQ==",
-    "size": 75989363
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-portable-0.4.0.exe",
+    "sha512": "b+bYU0Q1IFX7DxLh8HX2KDQvlTA3DKCLapUdexSM9D5bswFSh4ADdcgfBh+xrFJ0NCZsrI0FCDmIu5H/vOkK6Q==",
+    "size": 75997573
   }
 }
