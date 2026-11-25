@@ -1,15 +1,15 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "date": "2026-11-25",
-  "notes": "YLLW 0.5.1\n- The app icon is now the yellow yL square, on the app, the installer, the taskbar and the window's title bar.\n- The logo in the toolbar is now the yellow-framed yllw wordmark.",
+  "notes": "YLLW 0.5.2\n- Sharper app icon and toolbar logo, redrawn from the new artwork: the yL square on the app, installer, taskbar and title bar, and the yllw wordmark in the toolbar.",
   "setup": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.1.exe",
-    "sha512": "GdwZOBluM+K7ak7gL7ckZShwCokrlSpyyZR2HvbLboonp8MPND74OtFuGzWkasD+NSZxciaj5nF7fQHB0e40sw==",
-    "size": 82183002
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.2.exe",
+    "sha512": "RjDUnuZHJz3ZX6Cd1Kx0Ssn7HALViGS8oslGrai7L6DJrreM7rF6PbIqDz1VDL0bMshKt1AvdwlDHefRC8zs7g==",
+    "size": 82213556
   },
   "portable": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.1.exe",
-    "sha512": "FslpLlA68wmb/nCklIhmHJvbiGowlJiF3rNFjT8riaQxUdLnCpAvMiClPvtq+u+sRwSVpYElxSofxH2izhPIeQ==",
-    "size": 75525995
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.2.exe",
+    "sha512": "ROGMsr6pdmroGI8P9OCFU5nHpJ5yWc2n8NdeQvxF+OdvYdjDGwePuM6/2ld+dCCFMokxSzhDs0Ch76d75HnUQQ==",
+    "size": 75541741
   }
 }
