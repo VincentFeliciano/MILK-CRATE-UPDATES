@@ -1,0 +1,15 @@
+{
+  "version": "0.3.0",
+  "date": "2026-11-25",
+  "notes": "milk crate 0.3.0\n- Tabs: each tab has its own address, layout, devices and style edits. Ctrl+T, Ctrl+W, Ctrl+Tab, Ctrl+1 to 9, drag to reorder. Open tabs come back on relaunch.\n- In the style editor, scroll the wheel over a focused number field to change it (Shift x10, Alt x0.1).\n- Settings (gear in the top bar, or Ctrl+,): search engine, home page, theme, layout for new tabs, downloads folder, clearing browsing data and updates.\n- Google is the default search for anything typed in the address bar that isn't an address.\n- Drag the left edge of the side panel and the top edge of the console to resize them.\n- Newer iPhones (16e, 16, 16 Plus, 17 Pro, Air, 17 Pro Max) and iPhone Duo, folded and open.\n- A short tour on first launch, replayable from Settings.\n- Dark interface theme.\n- Screenshots now save at the device's full size.\n- milk crate checks for updates and installs them.",
+  "setup": {
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-setup-0.3.0.exe",
+    "sha512": "gmKH5OxJO5QTLITVxiwxMHQn9HvGGF5BZ7WEh/A5HOG1D51FBDCFv9oZsycbM2uFrdZ65Psr6iUzJXwNQIvDig==",
+    "size": 82793250
+  },
+  "portable": {
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-portable-0.3.0.exe",
+    "sha512": "m9PufqP9BUwwC++Ssws10g726ZisYRT+FEkq1eX59owMBbtHiDKtSUCso/3UNhLodhwTvVKdfvoxXa12x5WF4Q==",
+    "size": 75986891
+  }
+}
