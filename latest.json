@@ -1,15 +1,15 @@
 {
-  "version": "0.4.2",
+  "version": "0.5.0",
   "date": "2026-11-25",
-  "notes": "milk crate 0.4.2\n- Device frames come in each model's real colors. Click the color dot on a pane to pick one: an iPhone 17 Pro Max offers Silver, Cosmic Orange and Deep Blue, an iPad Air its own four, and so on. Laptops come in silver, black or white, monitors in silver or black.\n- Settings sets the default for panes you haven't picked a color for: each model's lightest finish, its darkest, or the old outline look.\n- Frames look more like the real thing: a metal band in the model's color around a black bezel, the iPhone SE with its home button, the Pixel with its punch-hole camera.\n- New iPad presets for the current lineup: iPad 11 (A16), iPad Air 11 and 13 (M4), iPad Pro 11 and 13 (M5).\n- About now says \"Made by Yellow Brick. AI-assisted code.\" with the Yellow Brick logo, linked to the Yellow Brick page.",
+  "notes": "YLLW 0.5.0\n- milk crate is now YLLW, with a new icon and logo in mustard yellow. Your tabs, layouts, settings and projects carry over, and the old shortcuts are replaced with YLLW ones.\n- The built-in Fieldkit sample site uses the same mustard yellow, with lighter yellow tints for its panels and lines.\n- Theme tokens now also lists every other color the page sets directly, like the Most popular badge, hover states, gradients, dark mode and colors inside web components. Change one and it changes everywhere it's used.\n- Token and color edits now stay on every pane when you switch layouts.\n- Phone and iPad frames show each model's real buttons: Action button and volume on the left of the iPhone 17 Pro Max with the side button and Camera Control on the right, the SE's ring switch, the Pixel's power and volume on the right, and the iPads' buttons on the top edge.",
   "setup": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-setup-0.4.2.exe",
-    "sha512": "GPOUfLR3EC79wkHM4/BDdQH7GLv+owdmnOvUSDjYoALVYxBxxdI5wBj+lRABbM9xrsKHunxA5FB1lX56U86eMw==",
-    "size": 82804154
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.0.exe",
+    "sha512": "L/4IAlNG0JJyePEtDDW7h16bnUEMhZ3bv523FMtg6m+3W34skzYDtfZHfQ6+bp4w6fI7Q3TznKcq1ZpXqKJP2A==",
+    "size": 82207140
   },
   "portable": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-portable-0.4.2.exe",
-    "sha512": "pF1TnfyI7IO12AQrfCyDYt1Xu5johrt8O9tTSGVjJDDEqoK8soc4OJCnnkhyC0QrAyHZI5WYNGnvUwEdTR3MHw==",
-    "size": 76014811
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.0.exe",
+    "sha512": "5B0qCykw6Hr06pFXI4nAGsDGEXsUG0ZLLi13zFhj4x445SRjOXVgwkhUutUWoW34ZVB/9r7VYly0EvnN2WVNlA==",
+    "size": 75533891
   }
 }
