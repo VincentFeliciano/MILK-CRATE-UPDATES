@@ -1,15 +1,15 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "date": "2026-11-25",
-  "notes": "milk crate 0.3.1\n- After an update, milk crate tells you which version is now running.\n- Settings shows the version number under Help.",
+  "notes": "milk crate 0.3.2\n- iPhone Duo frame redrawn: folded shut, the hinge side has square corners and no buttons, volume buttons sit on the top edge toward the right, and the side button and Camera Control are on the right. The open Duo frame has its buttons in the same places.\n- After an update, milk crate tells you which version is now running.",
   "setup": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-setup-0.3.1.exe",
-    "sha512": "fv9f+9RBFQnNX2TgXFH/r+8YP0AGlCuxX/5XgwSm9tpufy37njsLBepSfmMXZx2C3Z3zqhNhqR18ol1hNLFMcQ==",
-    "size": 82805441
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-setup-0.3.2.exe",
+    "sha512": "ba4He+p5BXjWNSxtr1T+5LJbNcGjpYeu4vwnu15kvVXDLfxI5vp74njoe75eo9HFLPuqOfqlCTONcg7ZcYsfog==",
+    "size": 82821763
   },
   "portable": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-portable-0.3.1.exe",
-    "sha512": "YB6sOdlo8iMF84PIdgwOS2R53nCbtkJPqHPEJJ/ZTBjphwcnkC639UhnVsp5hCkm2a6KEj9WZwwbC+huxhVbZQ==",
-    "size": 75987000
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/milk-crate-portable-0.3.2.exe",
+    "sha512": "XyQb+ZRVHJ5aEnxI/7/ot0shFIcWSOBELyVKrcBinU4FM5ZnCb2kNrEj+RVKfUIG3dtADkATauu/CvZF5fRyRQ==",
+    "size": 75989363
   }
 }
