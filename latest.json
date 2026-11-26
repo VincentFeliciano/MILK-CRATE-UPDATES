@@ -1,15 +1,15 @@
 {
-  "version": "0.5.5",
+  "version": "0.5.6",
   "date": "2026-11-26",
-  "notes": "YLLW 0.5.5\n- Free layout: a new layout button lets you drag each device pane by its name bar and put it anywhere on the canvas. Each tab remembers where you put them, zoom scales the arrangement, and Fit still shows them all. \"Line up panes again\" in the command palette starts over.\n- Swipe to scroll: with Touch on, drag inside a phone or tablet pane to scroll it like a finger swipe, with momentum on a quick flick. A plain click still taps, and the scroll wheel still works.\n- The tour now covers both.",
+  "notes": "YLLW 0.5.6\n- Browser mode: a new toolbar button, or Ctrl+Shift+F, turns YLLW into a regular browser. One page fills the window and the tools, console and device controls step aside. Press it again to get your devices and panels back as they were.\n- Easier resize handles: on a picked element, the whole right and bottom edges resize it and the corner does both. Handles and the selection border stay the same size on screen at any zoom, and the resize cursor shows even with Touch on.\n- Free layout zooms to fit your panes as tightly as it can each time you drop one, and panes no longer pile on each other when zoomed far out.\n- The sync bar now stays in front of every pane in every layout.\n- The tour covers Browser mode, the handles and the Free auto-zoom.",
   "setup": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.5.exe",
-    "sha512": "nxNAn1WEtV93/TGRYU9i3fEwOJqKCI2u6FMEC8K+Y5ZQcydW9X/WMFJxxKAyOv4vWezxfqeH2kkviHZZ6hJj5A==",
-    "size": 82211358
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.6.exe",
+    "sha512": "eAM7TEw/0zInYWLUz83pnAqvXiqMjXPVKrG5YN3Flz0jiZ/KROwdxnKbBlJW4HF97Xhyi2XULNmWRQCv1rVbZg==",
+    "size": 82216969
   },
   "portable": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.5.exe",
-    "sha512": "RncGlRSrYvV5USyeuuXNNxUcRso2bZJzYeVxT5oFd40KBkhkqWkt5i6nWRvYyW1JUbJXldlgfkjkXv7T+fcAWA==",
-    "size": 75559799
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.6.exe",
+    "sha512": "jsgWvLsyWakRAISKxHGVpM1m0p2kIYEMjqES9hETo67A8LfY67XzXn9dl5QLnYgV+phRtK30yIKu1Yf5G5hefg==",
+    "size": 75561714
   }
 }
