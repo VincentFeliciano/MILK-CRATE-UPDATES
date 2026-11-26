@@ -1,15 +1,15 @@
 {
-  "version": "0.5.2",
-  "date": "2026-11-25",
-  "notes": "YLLW 0.5.2\n- Sharper app icon and toolbar logo, redrawn from the new artwork: the yL square on the app, installer, taskbar and title bar, and the yllw wordmark in the toolbar.",
+  "version": "0.5.3",
+  "date": "2026-11-26",
+  "notes": "YLLW 0.5.3\n- Light and dark mode: switch with the new sun and moon button next to Settings, or pick Light, Dark or Match system in Settings. Dark mode uses the YLLW yellow as its accent.\n- Canvas color: pick the background behind the device panes in Settings under Look. Auto follows light or dark mode, or choose a preset or any color. Device names stay readable on any color.\n- Hint text is a little easier to read in both modes.",
   "setup": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.2.exe",
-    "sha512": "RjDUnuZHJz3ZX6Cd1Kx0Ssn7HALViGS8oslGrai7L6DJrreM7rF6PbIqDz1VDL0bMshKt1AvdwlDHefRC8zs7g==",
-    "size": 82213556
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.3.exe",
+    "sha512": "alFRyzAbSP5ntj7IOspy++W9jCRHL7SPOiG7cZI28tT+TocJPMpZAB7jOATq7XAh0BMRQATqo6aP/Ptcss9Ubg==",
+    "size": 82196527
   },
   "portable": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.2.exe",
-    "sha512": "ROGMsr6pdmroGI8P9OCFU5nHpJ5yWc2n8NdeQvxF+OdvYdjDGwePuM6/2ld+dCCFMokxSzhDs0Ch76d75HnUQQ==",
-    "size": 75541741
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.3.exe",
+    "sha512": "pOKZ31Iiiz739bJchzQR77391mittjocElVKzgUHiCuiAk5t/hokpxklUxak6AN5JhH+t+Gm4KAUb8jdoq6IeQ==",
+    "size": 75541033
   }
 }
