@@ -1,15 +1,15 @@
 {
-  "version": "0.5.4",
+  "version": "0.5.5",
   "date": "2026-11-26",
-  "notes": "YLLW 0.5.4\n- Network throttling: load every pane on Fast 4G, Fast 3G, Slow 3G, offline or your own speed, from View and emulation. Firefox and WebKit panes get the delay and offline mode but no speed cap.\n- Audits: performance, accessibility, best-practice and SEO scores for each pane, with the findings behind them. These are YLLW's own checks modelled on Lighthouse, and running one reloads every pane.\n- Storage: cookies, localStorage and sessionStorage for every pane, side by side, with view, edit, add, delete and clear.\n- Grid and flex outlines with their tracks and gaps, plus rulers you can drag guides out of. Guides show in every pane.\n- Design DNA: the page's colors, fonts, type scale, spacing, radii and shadows on one sheet, exportable as CSS tokens or JSON.\n- Components: finds repeated patterns and outlines every copy across the panes.\n- Playground: live HTML and CSS in every pane, JavaScript on Run, and Reset to undo it all.\n- Bookmarks: snippets, components, design sheets and pages that stay after a restart, tagged with the open project, with export and import.\n- The tour now covers every tool, plus light and dark mode and the canvas color. Replay it from Settings.",
+  "notes": "YLLW 0.5.5\n- Free layout: a new layout button lets you drag each device pane by its name bar and put it anywhere on the canvas. Each tab remembers where you put them, zoom scales the arrangement, and Fit still shows them all. \"Line up panes again\" in the command palette starts over.\n- Swipe to scroll: with Touch on, drag inside a phone or tablet pane to scroll it like a finger swipe, with momentum on a quick flick. A plain click still taps, and the scroll wheel still works.\n- The tour now covers both.",
   "setup": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.4.exe",
-    "sha512": "gqm9etfoks2hv48Wi3xMCiQUzaVbNGktXbacPZ11Jz3mUssEezV9Z+/o05mZTAI4t179M+DQQEL4VknIfZ6l4A==",
-    "size": 82214342
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.5.exe",
+    "sha512": "nxNAn1WEtV93/TGRYU9i3fEwOJqKCI2u6FMEC8K+Y5ZQcydW9X/WMFJxxKAyOv4vWezxfqeH2kkviHZZ6hJj5A==",
+    "size": 82211358
   },
   "portable": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.4.exe",
-    "sha512": "rKBuedOCR5pDHQuq8gFw5wB61YAKIT/7Rqq+Px5IaDJGkCJy+edx6CO23y71mnJnTAQ4AvAnt9Xm1IAM3mn6rA==",
-    "size": 75556830
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.5.exe",
+    "sha512": "RncGlRSrYvV5USyeuuXNNxUcRso2bZJzYeVxT5oFd40KBkhkqWkt5i6nWRvYyW1JUbJXldlgfkjkXv7T+fcAWA==",
+    "size": 75559799
   }
 }
