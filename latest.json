@@ -1,15 +1,15 @@
 {
-  "version": "0.5.6",
+  "version": "0.5.7",
   "date": "2026-11-26",
-  "notes": "YLLW 0.5.6\n- Browser mode: a new toolbar button, or Ctrl+Shift+F, turns YLLW into a regular browser. One page fills the window and the tools, console and device controls step aside. Press it again to get your devices and panels back as they were.\n- Easier resize handles: on a picked element, the whole right and bottom edges resize it and the corner does both. Handles and the selection border stay the same size on screen at any zoom, and the resize cursor shows even with Touch on.\n- Free layout zooms to fit your panes as tightly as it can each time you drop one, and panes no longer pile on each other when zoomed far out.\n- The sync bar now stays in front of every pane in every layout.\n- The tour covers Browser mode, the handles and the Free auto-zoom.",
+  "notes": "YLLW 0.5.7\n- New built-in demo site: a playful YLLW product site (home, pricing and contact) replaces FieldKit. It sizes fluidly and switches to phone, tablet, desktop and wide desktop layouts, with a tag showing which layout each pane is on.\n- Code editor: open a site's folder, preview it in every pane, and edit its HTML and CSS side by side. CSS shows in every pane as you type; Ctrl+S saves the real files, keeps a backup of the first save, and won't overwrite a file that changed on disk without asking.\n- One button on the floating bar switches every pane to dark, light or the system setting. The sun or moon on a pane's header still sets one pane apart, and the bar shows Mixed when panes differ.\n- Fit in Free layout zooms so your panes fill the width of the screen, with Add a device close to the scroll bar. Tall arrangements scroll down, and closing a pane refits.\n- A width dragged on an element can no longer push the page wider than a phone screen.\n- The tour covers the Code editor, the all-panes light/dark button and the new Fit.",
   "setup": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.6.exe",
-    "sha512": "eAM7TEw/0zInYWLUz83pnAqvXiqMjXPVKrG5YN3Flz0jiZ/KROwdxnKbBlJW4HF97Xhyi2XULNmWRQCv1rVbZg==",
-    "size": 82216969
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.7.exe",
+    "sha512": "olMjk6mYDklB83fRlOP2NliLrWyOshhGoBXHHomfM20EMVsBJdRb7HUmFj1+7tbEWpTWoPRh2DaiQOQC3pxyhg==",
+    "size": 82231937
   },
   "portable": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.6.exe",
-    "sha512": "jsgWvLsyWakRAISKxHGVpM1m0p2kIYEMjqES9hETo67A8LfY67XzXn9dl5QLnYgV+phRtK30yIKu1Yf5G5hefg==",
-    "size": 75561714
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.7.exe",
+    "sha512": "VzTuvJCWVKp7js/LwthmYM5/75gcgKEAN1VsS+0cTvOKaXr1+39aEoO+mel4+SzFs92mtHWxD95D4Pa5NnADWg==",
+    "size": 75567311
   }
 }
