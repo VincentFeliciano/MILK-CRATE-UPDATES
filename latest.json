@@ -1,15 +1,15 @@
 {
-  "version": "0.5.8",
+  "version": "0.5.9",
   "date": "2026-11-26",
-  "notes": "YLLW 0.5.8\n- Many more phones: 52 in all, grouped by brand. New are the iPhone 18 Pro and Pro Max and iPhone 17, Galaxy S26 and S25 lines, A57 and A37, Z Fold8, Z Fold8 Ultra and Z Flip8 (inside and cover screens), Pixel 11, 10 and 9 lines and Pixel 11 Pro Fold, Nothing Phone (3), (4a) Pro and (4) Base, CMF Phone 2 Pro, OnePlus 15 and 13, Xperia 1 VIII, Xiaomi 17 Ultra and 17T Pro, and Razr+ 2026 and Razr Ultra 2025.\n- Each phone frame is drawn from its maker's measurements where they're published, with its own corner shape, camera cutout (Dynamic Island, notch, punch-hole or cover-screen cameras), button placement and colors. Foldables show a crease.\n- A status bar (time, signal, battery) and home bar now take the space they take on a real phone, so the page gets the height a real visitor gets. Turn them off in Devices or from Ctrl+K.\n- In One at a time layout, the floating bar has a device menu that switches the pane you're looking at to any phone, tablet or computer.\n- The Devices list is grouped by brand with a filter, and shows each screen's pixel ratio. New layouts: Android phones and Foldables.\n- The tour covers the device list and the status bar.",
+  "notes": "YLLW 0.5.9\n- Fixed: pages could run off the right edge of every phone. A width set in the Style panel (on the demo's intro text, heading or buttons, for example) carried over to phone panes and pushed the page wider than the screen. Widths you set, in any unit, now stay inside their parent, including edits you already have.\n- The demo site's columns can no longer be stretched by one wide item, so it wraps and fits from 320px phones up.\n- The demo no longer logs \"ready at 0px\" while a pane is still opening.\n- The iPhone SE no longer shows a stray home-bar line.",
   "setup": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.8.exe",
-    "sha512": "u2ckE8cEJQgjcnW8OouLNoQ59y1P/qeLndEfWzHg3+iMN8WkcJSRA5zuCzQm1Z83XL1F0TBnyJbVN8i23m781g==",
-    "size": 82231720
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.9.exe",
+    "sha512": "HIZL6+gUuYytiAdTYittSwu3YubT2IhrpR/zFWoHX52NiSTpcayhL2c9Ld+UWKZMvA7TTA7A8lyTZ8TGVzPFuw==",
+    "size": 82235837
   },
   "portable": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.8.exe",
-    "sha512": "3hrqFOEza8Pej2EMcRjrULj6OgOW50FL5QbdUE2zwLW46Kxw41m7A0KkgIKbO/YlWgCmbGbvCP8fQvTLZ4jW6w==",
-    "size": 75574069
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.9.exe",
+    "sha512": "spENrgI9Im8Ps3iQu7yhN1EvjT+mImU00WJbly5q3DXAAmLdG3JcPUgqWhhhX3IEmWc3IqZ4ZzJQsoayZCh57g==",
+    "size": 75575249
   }
 }
