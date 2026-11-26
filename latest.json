@@ -1,15 +1,15 @@
 {
-  "version": "0.5.3",
+  "version": "0.5.4",
   "date": "2026-11-26",
-  "notes": "YLLW 0.5.3\n- Light and dark mode: switch with the new sun and moon button next to Settings, or pick Light, Dark or Match system in Settings. Dark mode uses the YLLW yellow as its accent.\n- Canvas color: pick the background behind the device panes in Settings under Look. Auto follows light or dark mode, or choose a preset or any color. Device names stay readable on any color.\n- Hint text is a little easier to read in both modes.",
+  "notes": "YLLW 0.5.4\n- Network throttling: load every pane on Fast 4G, Fast 3G, Slow 3G, offline or your own speed, from View and emulation. Firefox and WebKit panes get the delay and offline mode but no speed cap.\n- Audits: performance, accessibility, best-practice and SEO scores for each pane, with the findings behind them. These are YLLW's own checks modelled on Lighthouse, and running one reloads every pane.\n- Storage: cookies, localStorage and sessionStorage for every pane, side by side, with view, edit, add, delete and clear.\n- Grid and flex outlines with their tracks and gaps, plus rulers you can drag guides out of. Guides show in every pane.\n- Design DNA: the page's colors, fonts, type scale, spacing, radii and shadows on one sheet, exportable as CSS tokens or JSON.\n- Components: finds repeated patterns and outlines every copy across the panes.\n- Playground: live HTML and CSS in every pane, JavaScript on Run, and Reset to undo it all.\n- Bookmarks: snippets, components, design sheets and pages that stay after a restart, tagged with the open project, with export and import.\n- The tour now covers every tool, plus light and dark mode and the canvas color. Replay it from Settings.",
   "setup": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.3.exe",
-    "sha512": "alFRyzAbSP5ntj7IOspy++W9jCRHL7SPOiG7cZI28tT+TocJPMpZAB7jOATq7XAh0BMRQATqo6aP/Ptcss9Ubg==",
-    "size": 82196527
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-setup-0.5.4.exe",
+    "sha512": "gqm9etfoks2hv48Wi3xMCiQUzaVbNGktXbacPZ11Jz3mUssEezV9Z+/o05mZTAI4t179M+DQQEL4VknIfZ6l4A==",
+    "size": 82214342
   },
   "portable": {
-    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.3.exe",
-    "sha512": "pOKZ31Iiiz739bJchzQR77391mittjocElVKzgUHiCuiAk5t/hokpxklUxak6AN5JhH+t+Gm4KAUb8jdoq6IeQ==",
-    "size": 75541033
+    "url": "https://raw.githubusercontent.com/VincentFeliciano/milk-crate-updates/main/yllw-portable-0.5.4.exe",
+    "sha512": "rKBuedOCR5pDHQuq8gFw5wB61YAKIT/7Rqq+Px5IaDJGkCJy+edx6CO23y71mnJnTAQ4AvAnt9Xm1IAM3mn6rA==",
+    "size": 75556830
   }
 }
